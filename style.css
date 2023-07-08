@@ -8,7 +8,7 @@ h1 {
 }
 nav {
      margin:10 px 0 px;
-     text-align: center;
+     text-align:center;
      background-color: blueviolet;
 }
 nav a {
@@ -19,7 +19,7 @@ nav a {
 main table {
     background-color: red;
 }
-main tr {
+main tr{
     background-color: maroon;
 }
 table img{
