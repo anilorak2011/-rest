@@ -8,18 +8,18 @@ h1 {
 }
 nav {
      margin:10 px 0 px;
-     text-align:center;
-     background-color:blueviolet;
+     text-align: center;
+     background-color: blueviolet;
 }
 nav a {
      text-decoration:none;
      padding-right: 60 px;
-     color:black;
+     color: black;
 }
 main table {
     background-color: red;
 }
-main tr{
+main tr {
     background-color: maroon;
 }
 table img{
